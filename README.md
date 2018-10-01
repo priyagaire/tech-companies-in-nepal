@@ -40,8 +40,10 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Fusemachines Nepal](http://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
 - [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
+
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
+- [Heartsun Technolpogy](http://heartsunntsoft.com/) |  Bharatpur-10, Chitwan| Software Development Company.
 - [Hello World Corp](http://helloworldcorp.biz/) | Sinamangal Road - Old Baneshwor, Kathmandu| Software Development Company.
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
