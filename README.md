@@ -66,7 +66,6 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Fusemachines Nepal](http://fusemachines.com.np/) | Hattisar, Kathmandu | We create intelligent software solutions that transform brands, grow businesses and make people's lives easier
 - [F1Soft International](http://f1soft.com/) | Hattisar, Kathmandu |  FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
-
 ## G - I
 
 - [Goreto Software](http://goretosoftware.com/) | Mandala Complex, Pokhara | Goreto Software is the one stop solution for all your Software Development, Graphics Designing and Web Development problems
