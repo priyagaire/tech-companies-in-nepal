@@ -43,7 +43,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## G - I
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
-- [Heartsun Technolpogy](http://heartsunntsoft.com/) |  Bharatpur-10, Chitwan| Software Development Company.
+- [Heartsun Technolpogy](http://heartsunntsoft.com/) |  Bharatpur-10, Chitwan|Software Company with DotNet platform.
 - [Hello World Corp](http://helloworldcorp.biz/) | Sinamangal Road - Old Baneshwor, Kathmandu| Software Development Company.
 - [Incessant Rain Animation Studios](http://www.incessantrain.com/) | Chhauni, Kathmandu | We specialize in 3D character animation, visual effects for feature films, game cinematics, commercials and integrated media
 - [Itel Communications Pvt. Ltd.](http://www.itel.com.np/) | Jawalakhel, Lalitpur | Telecommunication Service Provider
